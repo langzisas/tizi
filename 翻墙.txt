@@ -1,0 +1,99 @@
+
+
+vps搭建vpn代码
+
+https://www.youtube.com/watch?v=ZJekmqOl0e4  YouTube教程
+https://github.com/dlxg/linux-Netspeed      加速
+
+
+
+wget -N --no-check-certificate "https://raw.githubusercontent.com/dlxg/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+./tcp.sh
+2
+6
+y
+
+
+wget --no-check-certificate -O shadowsocks-libev_CN.sh https://raw.githubusercontent.com/uxh/shadowsocks_bash/master/shadowsocks-libev_CN.sh && bash shadowsocks-libev_CN.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yum -y install wget
+yum -y install setup
+yum -y install perl
+
+
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh && chmod +x shadowsocksR.sh
+
+
+
+
+
+./shadowsocksR.sh
+
+
+
+
+
+
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+  chmod +x bbr.sh
+  ./bbr.sh
+
+
+
+
+
+
+
+
+
+
+
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+chmod +x bbr.sh
+./bbr.sh
+
+
+
+
+
+
+
+
+
+
+wget -q -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/install.sh && bash install.sh
+
+
+生成二维码
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
